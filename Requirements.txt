@@ -1,0 +1,11 @@
+1	Sparrow has a well shaped user interface to use
+2	User interface must be functional properly
+3	Sparrow can upload any formatted and non formated file 
+4	It must be capable to extract formatted text file like pdf, doc etc.
+5	It can process direct user  input from input text field
+6	Sparrow can generate understandable virtual voice to read in every input and every scenario 
+7	Voice duration can be changeable
+8	Volume must be manually adjustable
+9	Sparrow must have a manual pause button to pause and voice
+10	Sparrow must have a resume option to play the voice
+11	program must have a restart button for replay any voice 

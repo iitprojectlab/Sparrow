@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/our/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="src/our/poi-3.0-FINAL.jar"/>
+	<classpathentry kind="lib" path="src/our/mbrola.jar"/>
+	<classpathentry kind="lib" path="cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="freetts.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
